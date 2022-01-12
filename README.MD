@@ -20,3 +20,8 @@ estándar PEP8 asi como la complejidad inferior a 8
 ```bash
 flake8 --max-complexity 8 --statistics src/main
 ```
+
+Se ha incluido una captura "Resultado.JPG" con los resultados de los test 
+de pruebas y los test de cobertura y calidad del código.
+
+![alt text](Resultados.JPG "Resultados Test")
